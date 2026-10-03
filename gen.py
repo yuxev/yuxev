@@ -463,7 +463,7 @@ WORK = [  # (slug, title, meta, description, thumb)
     ("ft_transcendence", "ft_transcendence", "1337  ·  WEB  ·  TEAM PROJECT",
      "Team project, the 42 finale: pong in the browser, 42 sign-in, tournaments.", "pong"),
     ("smalloc", "smalloc", "1337  ·  SYSTEMS  ·  C",
-     "A small malloc on top of mmap, to learn how allocators manage memory.", "mem"),
+     "malloc and free from scratch on mmap: split, merge and reuse chunks.", "mem"),
     ("syncmaster", "SyncMaster", "1337  ·  SYSTEMS  ·  C",
      "Dining philosophers with pthreads: mutex ordering, no data races, nobody starves.", "table"),
     ("cub3d", "cub3d", "1337  ·  GRAPHICS  ·  C",
